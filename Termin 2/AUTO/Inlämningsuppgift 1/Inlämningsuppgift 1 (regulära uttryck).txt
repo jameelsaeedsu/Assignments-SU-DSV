@@ -1,0 +1,15 @@
+1. Lösning: [aktl]{6}\b ———>  Matchningar: 7 
+
+2. Lösning: \b(bEt)[a-zA-z0-9]*(oc)\b ———> Matchningar: 15 
+
+3. Lösning: bEt ———> Matchningar: 58
+
+4. Lösning: \b(a)\w+ ———> Matchningar: 697 
+
+5. Lösning: \w*ha\w*a|a\w*ha\w* ———> Matchningar: 51
+
+6. Lösning: \b(bEt)\w+ ———> Matchningar: 37
+
+7. Lösning: baba|bebe|bibi|bobo|bubu|fafa|fefe|fifi|fofo|fufu ———> Matchningar: 53
+
+8. Lösning: \w*e.e.e\w* ———> Matchningar: 495
